@@ -1,4 +1,4 @@
-The following is a list of casks installed on my machine, maintained in alphabetical order.
+The following is a list of brew casks installed on my machine, maintained in alphabetical order.
 Format will be in [name of cask installable through brew] : (short description of the cask).
 This list will be updated whenever possible. Last updated on: Tues December 19th, 2023.
 
@@ -7,20 +7,20 @@ alt-tab : a more robust replacement for macOS' built-in cmd+tab feature, that sh
 discord : hangout / video game / social messaging platform
 firefox : preferred default web browser for daily use, due to privacy Add-ons, themes, and other customizations
 gimp : 
-gitkraken : 
-google-chrome : 
+gitkraken : experimental Git GUI, used for simple tasks when my eyes want a visual feast
+google-chrome : backup web browser for specific uses, like dev page source viewing, compatibility, etc
 insomnia : 
-iterm2 : 
+iterm2 : preferred replacement for macOS' built-in Terminal app; uses macOS' native notifications, clickable links, customizations
 kap : 
 keepingyouawake : 
 keka : 
 kekaexternalhelper : 
-messenger : 
+messenger : facebook social messaging platform
 postman : 
-rectangle : 
-slack : 
-sourcetree : 
-steam : 
-sublime-text : 
-visual-studio-code : 
-zoom : 
+rectangle : window management tool, replaces spectacle
+slack : work communication platform
+sourcetree : preferred Git GUI for most daily development workflows
+steam : game client for when I want to be a nerd
+sublime-text : preferred text editor when I want to write quite notes or small files
+visual-studio-code : preferred IDE for viewing certain code files, and for fixing merge conflicts
+zoom : video calling platform, mainly used for work
