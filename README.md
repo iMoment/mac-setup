@@ -16,5 +16,3 @@ These are the specs at a glance:
 * 1TB SSD
 
 You can read more about this MacBook [here](https://support.apple.com/kb/SP899?locale=en_US).
-
-Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-pro-8-core-cpu-14-core-gpu-14-2021-specs.html)
