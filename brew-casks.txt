@@ -1,0 +1,26 @@
+The following is a list of casks installed on my machine, maintained in alphabetical order.
+Format will be in [name of cask installable through brew] : (short description of the cask).
+This list will be updated whenever possible. Last updated on: Tues December 19th, 2023.
+
+alfred : a more optimized replacement for macOS' built-in Spotlight feature
+alt-tab : a more robust replacement for macOS' built-in cmd+tab feature, that shows window previews
+discord : hangout / video game / social messaging platform
+firefox : preferred default web browser for daily use, due to privacy Add-ons, themes, and other customizations
+gimp : 
+gitkraken : 
+google-chrome : 
+insomnia : 
+iterm2 : 
+kap : 
+keepingyouawake : 
+keka : 
+kekaexternalhelper : 
+messenger : 
+postman : 
+rectangle : 
+slack : 
+sourcetree : 
+steam : 
+sublime-text : 
+visual-studio-code : 
+zoom : 
