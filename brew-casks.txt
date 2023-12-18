@@ -6,21 +6,23 @@ alfred : a more optimized replacement for macOS' built-in Spotlight feature
 alt-tab : a more robust replacement for macOS' built-in cmd+tab feature, that shows window previews
 discord : hangout / video game / social messaging platform
 firefox : preferred default web browser for daily use, due to privacy Add-ons, themes, and other customizations
-gimp : 
+gimp : lightweight image editing tool
 gitkraken : experimental Git GUI, used for simple tasks when my eyes want a visual feast
 google-chrome : backup web browser for specific uses, like dev page source viewing, compatibility, etc
-insomnia : 
+insomnia : program for testing http requests / test http servers
 iterm2 : preferred replacement for macOS' built-in Terminal app; uses macOS' native notifications, clickable links, customizations
-kap : 
-keepingyouawake : 
-keka : 
-kekaexternalhelper : 
+kap : preferred replacement for macOS' built-in screen recording feature shift+cmd+5, can export to different file formats
+keepingyouawake : an override to macOS' battery and lock screen settings, prevents sleeping for set durations
+keka : preferred replacement for macOS' built-in archiver
+kekaexternalhelper : helper app for keka that allows for it to be the default application
 messenger : facebook social messaging platform
-postman : 
+postman : an API platform for building / using / testing APIs
 rectangle : window management tool, replaces spectacle
 slack : work communication platform
 sourcetree : preferred Git GUI for most daily development workflows
 steam : game client for when I want to be a nerd
 sublime-text : preferred text editor when I want to write quite notes or small files
+time-out : scheduled activity / break timer tool
 visual-studio-code : preferred IDE for viewing certain code files, and for fixing merge conflicts
+vlc : preferred multimedia player
 zoom : video calling platform, mainly used for work
