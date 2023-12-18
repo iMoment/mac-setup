@@ -3,5 +3,5 @@ Format will be in [name of formulae installable through brew] : (short descripti
 This list will be updated whenever possible. Last updated on: Tues December 19th, 2023.
 
 git : version control system
-ffmepg : preferred cli tool to convert multimedia files between different formats, installs a BUNCH of other format formulae
-youtube-dl : used to download videos from youtube.com or other video platforms
+ffmpeg : preferred cli tool to convert multimedia files between different formats, installs a BUNCH of other format formulae
+yt-dlp : used to download videos from youtube.com or other video platforms, installs other formulae
