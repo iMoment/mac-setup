@@ -1,11 +1,13 @@
 The following is a list of brew casks installed on my machine, maintained in alphabetical order.
 Format will be in [name of cask installable through brew] : (short description of the cask).
-This list will be updated whenever possible. Last updated on: Tues December 19th, 2023.
+This list will be updated whenever possible. Last updated on: Wed December 20th, 2023.
 
 alfred : a more optimized replacement for macOS' built-in Spotlight feature
 alt-tab : a more robust replacement for macOS' built-in cmd+tab feature, that shows window previews
+cinebench : test suite evaluating computer's hardware capabilities
 discord : hangout / video game / social messaging platform
 firefox : preferred default web browser for daily use, due to privacy Add-ons, themes, and other customizations
+geekbench : system performance benchmark
 gimp : lightweight image editing tool
 gitkraken : experimental Git GUI, used for simple tasks when my eyes want a visual feast
 google-chrome : backup web browser for specific uses, like dev page source viewing, compatibility, etc
@@ -16,6 +18,7 @@ keepingyouawake : an override to macOS' battery and lock screen settings, preven
 keka : preferred replacement for macOS' built-in archiver
 kekaexternalhelper : helper app for keka that allows for it to be the default application
 messenger : facebook social messaging platform
+mx-power-gadget : system monitor software
 postman : an API platform for building / using / testing APIs
 rectangle : window management tool, replaces spectacle
 slack : work communication platform
