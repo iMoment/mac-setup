@@ -1,4 +1,4 @@
-## New MacBook Setup
+## New MacBook Setup (last updated Tue December 19th, 2023)
 
 This repository contains info on all the apps / tools / settings I use on my personal MacBook for development.
 
