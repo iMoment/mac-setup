@@ -1,0 +1,10 @@
+I use macOS' built-in Zsh as my preferred shell.
+The following is a list of plugins/customizations used in conjunction with Zsh, maintained in alphabetical order.
+Format will be in [name of customization] : (short description of the customization).
+This list will be updated whenever possible. Last updated on: Wed December 20th, 2023.
+
+oh my zsh : framework for managing Zsh configuration, come pre-configured with tools like vcprompt
+PowerLevel10K : preferred theme for oh my zsh
+web-search : quick and easy web searches through preferred terminal (opens in browser window)
+zsh-autosuggestions : predictive text suggestion/completion based on command history
+zsh-syntax-highlighting : color-code terminal commands for easier visualization
