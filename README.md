@@ -1,10 +1,10 @@
-## New MacBook Setup (last updated Tue December 19th, 2023)
+## New MacBook Setup (last updated Wed December 20th, 2023)
 
 This repository contains info on all the apps / tools / settings I use on my personal MacBook for development.
 
 ## What MacBook do I have?
 
-I purchased a 2019 16-inch MacBook Pro when it was first released. The tech specs for it can be found [here](https://support.apple.com/kb/SP809?locale=en_US).
+I purchased a 2019 16" MacBook Pro (last Intel-based CPU) when it was first released. The tech specs for it can be found [here](https://support.apple.com/kb/SP809?locale=en_US).
 
 Unfortunately, after returning from a trip to China, it suddenly ended up dying, and the cost of repair was better off used towards a new purchase instead.
 

@@ -1,7 +1,7 @@
 The following is a list of brew formulae installed on my machine, maintained in alphabetical order.
 Format will be in [name of formulae installable through brew] : (short description of the formulae).
-This list will be updated whenever possible. Last updated on: Tues December 19th, 2023.
+This list will be updated whenever possible. Last updated on: Wed December 20th, 2023.
 
-git : version control system
 ffmpeg : preferred cli tool to convert multimedia files between different formats, installs a BUNCH of other format formulae
+git : version control system
 yt-dlp : used to download videos from youtube.com or other video platforms, installs other formulae

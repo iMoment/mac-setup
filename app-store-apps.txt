@@ -1,0 +1,7 @@
+The following is a list of brew Apple App Store apps installed on my machine, maintained in alphabetical order.
+Format will be in [name of app installable through App Store] : (short description of the app).
+This list will be updated whenever possible. Last updated on: Wed December 20th, 2023.
+
+Copilot : personal finance management application, built with SwiftUI, also available on iOS. Monthly/Yearly paid subscription
+DetailsPro : UI design application, made for designers, that converts designs to SwiftUI code
+KakaoTalk : Korean messaging application
