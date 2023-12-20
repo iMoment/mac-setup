@@ -29,4 +29,5 @@ sublime-text : preferred text editor when I want to write quite notes or small f
 time-out : scheduled activity / break timer tool
 visual-studio-code : preferred IDE for viewing certain code files, and for fixing merge conflicts
 vlc : preferred multimedia player
+xcodes : Xcode version manager in GUI format
 zoom : video calling platform, mainly used for work
