@@ -6,6 +6,7 @@ alfred : a more optimized replacement for macOS' built-in Spotlight feature
 alt-tab : a more robust replacement for macOS' built-in cmd+tab feature, that shows window previews
 cinebench : test suite evaluating computer's hardware capabilities
 discord : hangout / video game / social messaging platform
+figma : collaborative design platform
 firefox : preferred default web browser for daily use, due to privacy Add-ons, themes, and other customizations
 geekbench : system performance benchmark
 gimp : lightweight image editing tool
