@@ -8,4 +8,5 @@ DetailsPro : UI design application, made for designers, that converts designs to
 Evernote : alternative note taking app
 KakaoTalk : Korean messaging application
 SnippetsLab : Code snippets manager
+Structured : daily planner/todo app
 Xcode : IDE for Apple development
