@@ -1,0 +1,27 @@
+The following is a list of system performance benchmarks ran on my machine.
+This list will be updated whenever possible. Last updated on: Wed December 20th, 2023.
+
+System Overview:
+Apple 16-inch M3 Max MacBook Pro, Nov 2023
+[14-core CPU (10P+4E), 30-core GPU]
+36GB RAM (300GB/s memory bandwidth)
+1TB SSD
+macOS Sonoma 14.2.1
+Energy Mode: Automatic for both battery/power adapter
+
+=>
+Geekbench 6 [Version 6.2.1 (603364)]:
+
+CPU Benchmark:
+Single-Core Score - 3196
+Multi-Core Score - 19092
+
+GPU Benchmark:
+Metal Score - 122891
+
+=>
+Cinebench 2024.1.0:
+*Minimum Test Duration: 10 minutes (Test Throttling)
+
+GPU - 10593
+CPU (Multi Core) - 1328
