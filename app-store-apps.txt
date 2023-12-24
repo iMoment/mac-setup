@@ -5,7 +5,6 @@ This list will be updated whenever possible. Last updated on: Sun December 24th,
 Agenda : preferred education/curriculum/studying note taking app (may be deprecated depending on Capacities/Obsidian as new default)
 Copilot : personal finance management application, built with SwiftUI, also available on iOS. Monthly/Yearly paid subscription
 DetailsPro : UI design application, made for designers, that converts designs to SwiftUI code
-Evernote : alternative note taking app (will be removed soon)
 KakaoTalk : Korean messaging application
 SnippetsLab : Code snippets manager
 Spark Classic : preferred email application
