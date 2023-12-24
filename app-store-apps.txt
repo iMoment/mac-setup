@@ -1,8 +1,8 @@
 The following is a list of brew Apple App Store apps installed on my machine, maintained in alphabetical order.
 Format will be in [name of app installable through App Store] : (short description of the app).
-This list will be updated whenever possible. Last updated on: Fri December 22th, 2023.
+This list will be updated whenever possible. Last updated on: Sun December 24th, 2023.
 
-Agenda : preferred education/curriculum/studying note taking app
+Agenda : preferred education/curriculum/studying note taking app (may be deprecated depending on Capacities/Obsidian as new default)
 Copilot : personal finance management application, built with SwiftUI, also available on iOS. Monthly/Yearly paid subscription
 DetailsPro : UI design application, made for designers, that converts designs to SwiftUI code
 Evernote : alternative note taking app (will be removed soon)
