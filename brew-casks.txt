@@ -1,10 +1,10 @@
 The following is a list of brew casks installed on my machine, maintained in alphabetical order.
 Format will be in [name of cask installable through brew] : (short description of the cask).
-This list will be updated whenever possible. Last updated on: Sun December 24th, 2023.
+This list will be updated whenever possible. Last updated on: Wed December 27th, 2023.
 
 alfred : a more optimized replacement for macOS' built-in Spotlight feature
 alt-tab : a more robust replacement for macOS' built-in cmd+tab feature, that shows window previews
-capacities : preferred notes app
+capacities : backup notes app
 cinebench : test suite evaluating computer's hardware capabilities
 discord : hangout / video game / social messaging platform
 figma : collaborative design platform
@@ -22,7 +22,7 @@ kekaexternalhelper : helper app for keka that allows for it to be the default ap
 malwarebytes : preferred malware protection/removal software
 messenger : facebook social messaging platform
 mx-power-gadget : system monitor software
-obsidian : backup notes app
+obsidian : preferred notes app
 postman : an API platform for building / using / testing APIs
 rectangle : window management tool, replaces spectacle
 slack : work communication platform
