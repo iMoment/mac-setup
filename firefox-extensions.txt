@@ -4,6 +4,7 @@ Format will be in [name of extension] : (short description of the extension).
 This list will be updated whenever possible. Last updated on: Wed December 20th, 2023.
 
 cookie-autodelete : automatically deletes cookies after website tab is closed, has whitelist for frequently visited sites
+dark-reader : dark mode applied to all websites
 one-tab : groups all open tabs into one list for future reference, can be shared as link
 privacybadger : block trackers on visited websites
 tabliss : visual customization of Firefox welcome / home page
