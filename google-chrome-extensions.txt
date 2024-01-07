@@ -1,0 +1,6 @@
+Google Chrome is installed as a secondary web browser.
+The following is a list of extensions used in conjunction with Google Chrome, maintained in alphabetical order.
+Format will be in [name of extension] : (short description of the extension).
+This list will be updated whenever possible. Last updated on: Sun January 7th, 2024.
+
+dark-reader : dark mode applied to all websites
