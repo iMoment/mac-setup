@@ -1,9 +1,10 @@
 The following is a list of brew casks installed on my machine, maintained in alphabetical order.
 Format will be in [name of cask installable through brew] : (short description of the cask).
-This list will be updated whenever possible. Last updated on: Wed December 27th, 2023.
+This list will be updated whenever possible. Last updated on: Tue January 9th, 2024.
 
 alfred : a more optimized replacement for macOS' built-in Spotlight feature
 alt-tab : a more robust replacement for macOS' built-in cmd+tab feature, that shows window previews
+arduino-ide : preferred IDE for Arduino development
 capacities : backup notes app
 cinebench : test suite evaluating computer's hardware capabilities
 discord : hangout / video game / social messaging platform
@@ -35,4 +36,4 @@ vlc : preferred multimedia player
 xcodes : Xcode version manager in GUI format
 zoom : video calling platform, mainly used for work
 
-Total number of casks: 32
+Total number of casks: 33
