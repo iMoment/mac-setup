@@ -18,11 +18,13 @@ Single-Core Score - 3227
 Multi-Core Score - 19362
 
 GPU Benchmark:
-Metal Score - 122891
+Metal Score - 123634
 
 =>
 Cinebench 2024.1.0:
 *Minimum Test Duration: 10 minutes (Test Throttling)
+Sun January 14th, 2024
 
-GPU - 10593
-CPU (Multi Core) - 1328
+GPU - 10663
+CPU (Multi Core) - 1456
+CPU (Single Core) - 140
