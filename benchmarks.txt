@@ -1,5 +1,5 @@
 The following is a list of system performance benchmarks ran on my machine.
-This list will be updated whenever possible. Last updated on: Wed December 20th, 2023.
+This list will be updated whenever possible. Last updated on: Sun January 24th, 2023.
 
 System Overview:
 Apple 16-inch M3 Max MacBook Pro, Nov 2023
@@ -11,10 +11,11 @@ Energy Mode: Automatic for both battery/power adapter
 
 =>
 Geekbench 6 [Version 6.2.1 (603364)]:
+Sun January 14th, 2024
 
 CPU Benchmark:
-Single-Core Score - 3196
-Multi-Core Score - 19092
+Single-Core Score - 3227
+Multi-Core Score - 19362
 
 GPU Benchmark:
 Metal Score - 122891
