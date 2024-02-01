@@ -1,6 +1,5 @@
 The following is a list of apps installed on my machine directly through websites, maintained in alphabetical order.
 Format will be in [name of app installable through website] : (short description of the app).
-This list will be updated whenever possible. Last updated on: Mon January 8th, 2024.
+This list will be updated whenever possible. Last updated on: Thurs February 1st, 2024.
 
-CrossOver : Windows application translation system
 Google Meet : video calling platform, for both personal and work related calls
