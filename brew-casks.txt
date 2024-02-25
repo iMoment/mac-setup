@@ -1,6 +1,6 @@
 The following is a list of brew casks installed on my machine, maintained in alphabetical order.
 Format will be in [name of cask installable through brew] : (short description of the cask).
-This list will be updated whenever possible. Last updated on: Sun January 14th, 2024.
+This list will be updated whenever possible. Last updated on: Sun February 25th, 2024.
 
 alfred : a more optimized replacement for macOS' built-in Spotlight feature
 alt-tab : a more robust replacement for macOS' built-in cmd+tab feature, that shows window previews
@@ -28,7 +28,6 @@ postman : an API platform for building / using / testing APIs
 rectangle : window management tool, replaces spectacle
 slack : work communication platform
 sourcetree : preferred Git GUI for most daily development workflows
-steam : game client for when I want to be a nerd
 sublime-text : preferred text editor when I want to write quite notes or small files
 time-out : scheduled activity / break timer tool
 visual-studio-code : preferred IDE for viewing certain code files, and for fixing merge conflicts
@@ -36,4 +35,4 @@ vlc : preferred multimedia player
 xcodes : Xcode version manager in GUI format
 zoom : video calling platform, mainly used for work
 
-Total number of casks: 33
+Total number of casks: 32
